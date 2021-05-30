@@ -3,7 +3,7 @@
 ## I'm Mateus Chacon
 
 - I live in Brazil, Minas Gerais :coffee: :cheese: :sunglasses:
-- I have been working as backen developer :computer:
+- I have been working as backend developer :computer:
 - I have been learnig more about Java on C++ :nerd_face:
 
 ## Connect with me:
