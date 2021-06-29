@@ -4,7 +4,7 @@
 
 - I live in Brazil, Minas Gerais :coffee: :cheese: :sunglasses:
 - I have been working as backend developer :computer:
-- I have been learnig more about Java on C++ :nerd_face:
+- I have been learnig more about Java and C++ :nerd_face:
 
 ## Connect with me:
 
