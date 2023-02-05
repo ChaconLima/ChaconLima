@@ -32,5 +32,5 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ChaconLima&repo=ChaconLima&theme=react)](https://github.com/ChaconLima/ChaconLima)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=chaconlima&repo=chaconlima&theme=react)](https://github.com/ChaconLima/ChaconLima)
 
